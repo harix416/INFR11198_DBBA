@@ -1,0 +1,8 @@
+name: dbba_env
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - ipykernel
+  - jupyter
+  - networkx

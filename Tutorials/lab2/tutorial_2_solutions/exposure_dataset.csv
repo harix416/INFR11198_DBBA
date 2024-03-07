@@ -1,0 +1,307 @@
+source,target,weight
+Austria,Australia,251
+Austria,Belgium,1449
+Austria,Canada,2286
+Austria,Switzerland,9140
+Austria,Chile,0
+Austria,Germany,55981
+Austria,Spain,6824
+Austria,Finland,742
+Austria,France,14414
+Austria,United Kingdom,6790
+Austria,Italy,104238
+Austria,Japan,7839
+Austria,Korea,271
+Austria,Netherlands,10610
+Austria,Portugal,306
+Austria,Sweden,693
+Austria,United States,10432
+Australia,Austria,552
+Australia,Belgium,1127
+Australia,Canada,24577
+Australia,Switzerland,15519
+Australia,Chile,5
+Australia,Germany,27873
+Australia,Spain,2899
+Australia,Finland,345
+Australia,France,36079
+Australia,United Kingdom,71336
+Australia,Italy,2273
+Australia,Japan,161662
+Australia,Korea,5070
+Australia,Netherlands,82787
+Australia,Portugal,79
+Australia,Sweden,362
+Australia,United States,140984
+Belgium,Austria,2390
+Belgium,Australia,1618
+Belgium,Canada,1633
+Belgium,Switzerland,6046
+Belgium,Chile,1
+Belgium,Germany,28688
+Belgium,Spain,7097
+Belgium,Finland,2209
+Belgium,France,293681
+Belgium,United Kingdom,7838
+Belgium,Italy,11300
+Belgium,Japan,42329
+Belgium,Korea,1267
+Belgium,Netherlands,0
+Belgium,Portugal,341
+Belgium,Sweden,632
+Belgium,United States,31286
+Canada,Austria,1789
+Canada,Australia,9725
+Canada,Belgium,3973
+Canada,Switzerland,25319
+Canada,Chile,30
+Canada,Germany,41772
+Canada,Spain,5228
+Canada,Finland,3532
+Canada,France,39027
+Canada,United Kingdom,121853
+Canada,Italy,2510
+Canada,Japan,102256
+Canada,Korea,4543
+Canada,Netherlands,18101
+Canada,Portugal,128
+Canada,Sweden,911
+Canada,United States,168207
+Switzerland,Austria,9916
+Switzerland,Australia,3250
+Switzerland,Belgium,2117
+Switzerland,Canada,14839
+Switzerland,Chile,15
+Switzerland,Germany,65024
+Switzerland,Spain,11124
+Switzerland,Finland,821
+Switzerland,France,83009
+Switzerland,United Kingdom,67141
+Switzerland,Italy,19334
+Switzerland,Japan,37729
+Switzerland,Korea,822
+Switzerland,Netherlands,33181
+Switzerland,Portugal,2055
+Switzerland,Sweden,1794
+Switzerland,United States,59744
+Chile,Austria,46
+Chile,Australia,71
+Chile,Belgium,134
+Chile,Canada,0
+Chile,Switzerland,1868
+Chile,Germany,2748
+Chile,Spain,67174
+Chile,Finland,0
+Chile,France,4238
+Chile,United Kingdom,2163
+Chile,Italy,0
+Chile,Japan,7241
+Chile,Korea,385
+Chile,Netherlands,0
+Chile,Portugal,59
+Chile,Sweden,274
+Chile,United States,9543
+Germany,Austria,55113
+Germany,Australia,13507
+Germany,Belgium,9990
+Germany,Canada,24826
+Germany,Switzerland,75075
+Germany,Chile,84
+Germany,Spain,80847
+Germany,Finland,12088
+Germany,France,207788
+Germany,United Kingdom,196328
+Germany,Italy,227719
+Germany,Japan,105030
+Germany,Korea,4120
+Germany,Netherlands,213644
+Germany,Portugal,2591
+Germany,Sweden,40341
+Germany,United States,375212
+Spain,Austria,5309
+Spain,Australia,1082
+Spain,Belgium,6512
+Spain,Canada,1860
+Spain,Switzerland,10029
+Spain,Chile,324
+Spain,Germany,72748
+Spain,Finland,453
+Spain,France,122083
+Spain,United Kingdom,20840
+Spain,Italy,83195
+Spain,Japan,46054
+Spain,Korea,443
+Spain,Netherlands,50662
+Spain,Portugal,17698
+Spain,Sweden,873
+Spain,United States,36949
+Finland,Austria,1540
+Finland,Australia,523
+Finland,Belgium,1790
+Finland,Canada,2230
+Finland,Switzerland,4797
+Finland,Chile,1
+Finland,Germany,23860
+Finland,Spain,5768
+Finland,France,22159
+Finland,United Kingdom,8300
+Finland,Italy,2502
+Finland,Japan,7560
+Finland,Korea,41
+Finland,Netherlands,8648
+Finland,Portugal,355
+Finland,Sweden,54900
+Finland,United States,11181
+France,Austria,15437
+France,Australia,8101
+France,Belgium,19792
+France,Canada,32471
+France,Switzerland,71645
+France,Chile,246
+France,Germany,194580
+France,Spain,0
+France,Finland,14123
+France,United Kingdom,383111
+France,Italy,73666
+France,Japan,203651
+France,Korea,1369
+France,Netherlands,125267
+France,Portugal,6787
+France,Sweden,4142
+France,United States,264292
+United Kingdom,Austria,10000
+United Kingdom,Australia,90734
+United Kingdom,Belgium,32227
+United Kingdom,Canada,180280
+United Kingdom,Switzerland,172453
+United Kingdom,Chile,1901
+United Kingdom,Germany,262007
+United Kingdom,Spain,496778
+United Kingdom,Finland,5288
+United Kingdom,France,275334
+United Kingdom,Italy,44249
+United Kingdom,Japan,237240
+United Kingdom,Korea,4879
+United Kingdom,Netherlands,118623
+United Kingdom,Portugal,2201
+United Kingdom,Sweden,54245
+United Kingdom,United States,540748
+Italy,Austria,4961
+Italy,Australia,641
+Italy,Belgium,3522
+Italy,Canada,461
+Italy,Switzerland,16738
+Italy,Chile,6
+Italy,Germany,88346
+Italy,Spain,108848
+Italy,Finland,0
+Italy,France,368646
+Italy,United Kingdom,18826
+Italy,Japan,52044
+Italy,Korea,306
+Italy,Netherlands,23740
+Italy,Portugal,12231
+Italy,Sweden,362
+Italy,United States,58745
+Japan,Austria,441
+Japan,Australia,42025
+Japan,Belgium,2075
+Japan,Canada,41989
+Japan,Switzerland,22097
+Japan,Chile,118
+Japan,Germany,37666
+Japan,Spain,14096
+Japan,Finland,431
+Japan,France,322198
+Japan,United Kingdom,184429
+Japan,Italy,19728
+Japan,Korea,16341
+Japan,Netherlands,22667
+Japan,Portugal,213
+Japan,Sweden,1594
+Japan,United States,449910
+Korea,Austria,437
+Korea,Australia,5030
+Korea,Belgium,134
+Korea,Canada,1602
+Korea,Switzerland,12839
+Korea,Chile,47
+Korea,Germany,10003
+Korea,Spain,814
+Korea,Finland,138
+Korea,France,29089
+Korea,United Kingdom,93929
+Korea,Italy,1899
+Korea,Japan,44989
+Korea,Netherlands,0
+Korea,Portugal,32
+Korea,Sweden,125
+Korea,United States,109070
+Netherlands,Austria,9006
+Netherlands,Australia,5009
+Netherlands,Belgium,29443
+Netherlands,Canada,9741
+Netherlands,Switzerland,25718
+Netherlands,Chile,27
+Netherlands,Germany,119259
+Netherlands,Spain,19016
+Netherlands,Finland,3493
+Netherlands,France,109895
+Netherlands,United Kingdom,62688
+Netherlands,Italy,18678
+Netherlands,Japan,92391
+Netherlands,Korea,1007
+Netherlands,Portugal,2808
+Netherlands,Sweden,12843
+Netherlands,United States,65253
+Portugal,Austria,287
+Portugal,Australia,106
+Portugal,Belgium,535
+Portugal,Canada,0
+Portugal,Switzerland,2462
+Portugal,Chile,0
+Portugal,Germany,9151
+Portugal,Spain,132272
+Portugal,Finland,136
+Portugal,France,25093
+Portugal,United Kingdom,1146
+Portugal,Italy,7270
+Portugal,Japan,1497
+Portugal,Korea,30
+Portugal,Netherlands,1993
+Portugal,Sweden,195
+Portugal,United States,3597
+Sweden,Austria,1974
+Sweden,Australia,1212
+Sweden,Belgium,664
+Sweden,Canada,6356
+Sweden,Switzerland,7715
+Sweden,Chile,0
+Sweden,Germany,33019
+Sweden,Spain,7446
+Sweden,Finland,0
+Sweden,France,34127
+Sweden,United Kingdom,13717
+Sweden,Italy,1994
+Sweden,Japan,15621
+Sweden,Korea,146
+Sweden,Netherlands,5390
+Sweden,Portugal,206
+Sweden,United States,33905
+United States,Austria,13139
+United States,Australia,85972
+United States,Belgium,14778
+United States,Canada,1457298
+United States,Switzerland,574120
+United States,Chile,6205
+United States,Germany,391367
+United States,Spain,313577
+United States,Finland,0
+United States,France,611468
+United States,United Kingdom,1084392
+United States,Italy,51178
+United States,Japan,1973670
+United States,Korea,48453
+United States,Netherlands,275971
+United States,Portugal,2382
+United States,Sweden,73906
